@@ -1,0 +1,10 @@
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\bin\Debug\SubstituicaoDePaginas.exe.config
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\bin\Debug\SubstituicaoDePaginas.exe
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\bin\Debug\SubstituicaoDePaginas.pdb
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.csprojAssemblyReference.cache
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.Properties.Resources.resources
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.csproj.GenerateResource.cache
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.csproj.CoreCompileInputs.cache
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.exe
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.pdb
+C:\Estudos\C#\SubstituicaoDePaginas\SubstituicaoDePaginas\obj\Debug\SubstituicaoDePaginas.Form1.resources
